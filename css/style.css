@@ -105,3 +105,10 @@ body
     color: hsl(0, 0%, 95%);
     transition: all .3s ease-in-out;
 }
+
+.attribution
+{
+    text-align: center;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 1.3rem;
+}
