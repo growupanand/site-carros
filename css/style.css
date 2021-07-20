@@ -22,7 +22,7 @@ body
     display:grid;
     height: 50vh;
     padding:30px;
-    max-width: 450px;
+    max-width: 300px;
 }
 
 .flex-item h2
